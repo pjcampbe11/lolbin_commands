@@ -297,7 +297,6 @@ c:\windows\syswow64\url.dll
 c:\windows\system32\zipfldr.dll
 c:\windows\syswow64\zipfldr.dll
 c:\windows\system32\comsvcs.dll
-C:\Users\pcamp\LOLBAS\yml\OSScripts>cat *.yml | grep 'Path'
 C:\Windows\diagnostics\system\Audio\CL_LoadAssembly.ps1
 C:\Windows\diagnostics\system\WindowsUpdate\CL_Mutexverifiers.ps1
 C:\Windows\diagnostics\system\Audio\CL_Mutexverifiers.ps1
